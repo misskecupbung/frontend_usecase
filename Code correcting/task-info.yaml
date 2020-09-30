@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: let some_func = (k, l, m) = k + l + m;
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8462
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8462">JetBrains
+    Academy</a></html>
+  time: Sat, 12 Sep 2020 06:53:32 UTC
+record: -1
