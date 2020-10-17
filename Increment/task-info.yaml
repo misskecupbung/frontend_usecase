@@ -1,0 +1,30 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: // White your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9108
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Runtime error
+
+    Error:
+    /sandbox/main.js:16
+    console.log(sum(arr[0], arr[1], arr[2]));
+                ^
+
+    TypeError: sum is not a function
+        at Interface.rl.on (/sandbox/main.js:16:13)
+        at Interface.emit (events.js:182:13)
+        at Interface._onLine (readline.js:290:10)
+        at Interface._normalWrite (readline.js:433:12)
+        at Socket.ondata (readline.js:149:10)
+        at Socket.emit (events.js:182:13)
+        at addChunk (_stream_readable.js:283:12)
+        at readableAddChunk (_stream_readable.js:264:11)
+        at Socket.Readable.push (_stream_readable.js:219:10)
+        at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+  time: Mon, 12 Oct 2020 16:56:14 UTC
+record: -1
